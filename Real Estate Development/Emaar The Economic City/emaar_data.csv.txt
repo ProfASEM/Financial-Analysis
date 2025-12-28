@@ -1,0 +1,7 @@
+Year,Company_Name,Sector,Revenue_SAR,Net_Income_SAR,Operating_Income_SAR,Total_Assets_SAR,Total_Liabilities_SAR
+2019,Emaar Economic City,Real Estate Development,946807,-533391,-337604,17333958,10231703
+2020,Emaar Economic City,Real Estate Development,547287,-1248364,-1043639,16316662,10473389
+2021,Emaar Economic City,Real Estate Development,372079,-836529,-690373,16376950,8600143
+2022,Emaar Economic City,Real Estate Development,363267,-1157290,-794527,15190831,8536054
+2023,Emaar Economic City,Real Estate Development,1031357,-253220,242738,15149663,8743415
+2024,Emaar Economic City,Real Estate Development,425970,-1134565,-477484,15090660,9823749						
