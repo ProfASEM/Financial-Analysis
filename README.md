@@ -1,15 +1,14 @@
-# Saudi Sectors Financial Performance & Risk Overview (2019–2024)
-
-## Growth • Profitability • Efficiency • Risk Dynamics
+# Financial Saudi Market Analysis (2019–2024)
 
 ### 📊 Project Overview
 #### 🇬🇧 English
 
-This project provides a comparative financial analysis of key Saudi sectors — Energy, Petrochemicals, Real Estate Development, and Telecommunications — focusing on how growth, profitability, efficiency, and risk interact across companies and sectors.
+This project develops a risk-adjusted sector benchmarking model for the Saudi financial market, designed to evaluate growth sustainability, earnings stability, and capital efficiency across sectors in a post-COVID environment.
 
-Rather than analyzing financial metrics in isolation, the dashboard adopts a risk-adjusted perspective, helping decision-makers understand not only who grows, but at what cost and level of stability.
+Rather than focusing solely on descriptive metrics, the model integrates growth dynamics, volatility patterns, leverage exposure, and profitability stability to support strategic capital allocation and sector positioning decisions.
 
-The analysis is visualized through an interactive Power BI dashboard, designed for both desktop analysis and mobile executive viewing.
+## Growth • Profitability • Efficiency • Risk Dynamics
+
 
 #### 🇸🇦 العربية
 
@@ -186,6 +185,59 @@ Time-weighted risk scoring
 
 Expansion to additional sectors or regional benchmarks
 
+## Decision Framework (Client-Oriented)
+
+### Executive Question
+Which Saudi sectors demonstrate sustainable growth with controlled risk to support different capital allocation strategies in a post-COVID environment?
+
+---
+
+### Allocation Logic
+
+Based on the project’s growth, volatility, profitability stability, and leverage indicators, sectors are positioned within the following strategic categories:
+
+- **Core Allocation**  
+  High growth with controlled volatility and stable profitability.  
+  Suitable for long-term capital deployment.
+
+- **Defensive Allocation**  
+  Moderate or low growth with strong stability and low drawdown risk.  
+  Suitable for conservative portfolios and capital preservation.
+
+- **Opportunistic Allocation**  
+  High growth accompanied by elevated volatility or earnings instability.  
+  Suitable for higher-risk, higher-return strategies.
+
+- **Watchlist / High-Risk Exposure**  
+  Weak growth combined with high volatility or financial pressure.  
+  Requires caution and active monitoring.
+
+---
+
+### Investor Strategy Scenarios
+
+- **Conservative Strategy**  
+  Focus on Core and Defensive sectors with strong stability profiles.
+
+- **Balanced Strategy**  
+  Core sectors as foundation, complemented by selective Opportunistic exposure.
+
+- **Growth-Oriented Strategy**  
+  Target high-growth sectors while actively managing volatility and leverage risk.
+
+---
+
+### Practical Applications
+
+This framework can support:
+
+- Investment advisory pre-screening  
+- Sector risk benchmarking  
+- Capital allocation modeling  
+- Portfolio diversification strategy  
+- Post-crisis resilience assessment  
+
+*Note: Classifications are based on historical risk-adjusted indicators (2019–2024) and are intended for analytical and benchmarking purposes.*
 ### 👤 Author
 
 #### Asem Haij
