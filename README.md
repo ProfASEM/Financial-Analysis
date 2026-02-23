@@ -163,27 +163,7 @@ Minimal visual clutter
 Executive-level summaries
 <img src='images/Mobile Version.png' style='width:200px,hieght:150px'>
 
-### 🛠 Tools & Technologies
 
-Power BI – Data modeling, DAX, visualization
-
-Financial Analysis – Ratio analysis, sector benchmarking
-
-Data Preparation – Manual data standardization and validation
-
-### 🚀 Conclusion & Next Steps
-
-This project demonstrates how financial performance becomes more meaningful when viewed through a risk-adjusted lens rather than isolated metrics.
-
-Potential Enhancements:
-
-Integration of macroeconomic indicators
-
-Scenario-based forecasting models
-
-Time-weighted risk scoring
-
-Expansion to additional sectors or regional benchmarks
 
 ## Decision Framework (Client-Oriented)
 
@@ -238,6 +218,15 @@ This framework can support:
 - Post-crisis resilience assessment  
 
 *Note: Classifications are based on historical risk-adjusted indicators (2019–2024) and are intended for analytical and benchmarking purposes.*
+
+### 🛠 Tools & Technologies
+
+Power BI – Data modeling, DAX, visualization
+
+Financial Analysis – Ratio analysis, sector benchmarking
+
+Data Preparation – Manual data standardization and validation
+
 ### 👤 Author
 
 #### Asem Haij
